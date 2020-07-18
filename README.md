@@ -9,7 +9,7 @@ A lot of this readme is taken exactly from the project description made by Udaci
 ## Deep Convolutional GANs
 In this notebook, I've built a GAN using convolutional layers in the generator and discriminator. This is called a Deep Convolutional GAN, or DCGAN for short. The DCGAN architecture was first explored in 2016 and has seen impressive results in generating new images; you can read the [original paper, here](https://arxiv.org/pdf/1511.06434.pdf).
 
-I've been training DCGAN on the [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/) (SVHN) dataset. These are color images of house numbers collected from Google street view. SVHN images are in color and much more variable than MNIST.
+I've been training DCGAN on the [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/) (SVHN) dataset. These are color images of house numbers collected from Google street view. SVHN images are in color and much more variable than MNIST dataset.
 
 So, my goal was to create a DCGAN that can generate new, realistic-looking images of house numbers. 
 
