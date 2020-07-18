@@ -1,4 +1,4 @@
-# Generating Colored House Numbers using generative adversarial networks (GANs)
+# Generating Colored Images of House Numbers using Generative Adversarial Networks (GANs)
 
 This is one of the projects I've built in Udacity **Deep Learning Nanodegree**.
 
